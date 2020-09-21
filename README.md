@@ -28,6 +28,6 @@ This app can be used by an employee to generate a random password based on crite
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
 
-## Mock-Up
+## Screenshot
 
-![Mock up of web application's appearance and functionality](./Develop/assets/images/demo.png)
+![Screenshot of web application, demonstrating appearance (UI), experience (UX) and functionality](./assets/images/demo.png)
