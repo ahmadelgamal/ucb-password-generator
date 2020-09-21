@@ -20,7 +20,6 @@ var collectPasswordLength = function () {
   );
   // if user chooses number within range, then alert with choice
   if (passwordLength >= 8 && passwordLength <= 128) {
-  if (passwordLength >= 8 && passwordLength <= 128) {
     alert("Chosen number of characters = " + passwordLength);
     // else prompt again for correct entry
   } else {
