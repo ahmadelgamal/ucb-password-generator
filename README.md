@@ -2,6 +2,12 @@
 
 This app can be used by an employee to generate a random password based on criteria they’ve selected. The app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
+## URL of Deployed Application
+https://ahmadelgamal.github.io/ucb-password-generator/
+
+## URL of GitHub Repository
+https://github.com/ahmadelgamal/ucb-password-generator
+
 ## User Story
 
 - AS AN employee with access to sensitive data
@@ -28,6 +34,6 @@ This app can be used by an employee to generate a random password based on crite
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
 
-## Screenshot
+## Screenshots
 
 ![Screenshot of web application, demonstrating appearance (UI), experience (UX) and functionality](./assets/images/demo.png)
